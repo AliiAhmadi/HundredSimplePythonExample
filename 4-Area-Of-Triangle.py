@@ -6,6 +6,6 @@ third = 5
 
 para = (first + second + third) / 2
 
-area = math.sqrt(para*(para-first)*(para-second)*(para-third))
+area = math.sqrt(para * (para - first) * (para - second) * (para - third))
 
 print(area)
